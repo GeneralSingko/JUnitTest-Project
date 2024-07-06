@@ -1,5 +1,6 @@
 package com.example.shoppingcart.test;
 //new comment
+//another comment
 import com.example.shoppingcart.Product;
 import com.example.shoppingcart.ShoppingCart;
 import org.junit.*;
